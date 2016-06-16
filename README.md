@@ -11,11 +11,13 @@ It does **not**
 - let them send messages to non-Staff members.  
 - display the Flag icon or it's option to send a message from its modal.  
 - let them send messages from their own Profile page.  
+- let them send messages if the site has them disabled
 
 ## Installation
 
 edit your containers/app.yml file by adding this line under "Plugins go here"
-      - git clone  https://github.com/Mittineague/discourse-kinder-guardian.git
+
+      \- git clone  https://github.com/Mittineague/discourse-kinder-guardian.git
 
 ## Authors
 
