@@ -17,7 +17,7 @@ It does **not**
 
 edit your containers/app.yml file by adding this line under "Plugins go here"
 
-      \- git clone  https://github.com/Mittineague/discourse-kinder-guardian.git
+      - git clone  https://github.com/Mittineague/discourse-kinder-guardian.git
 
 ## Authors
 
